@@ -1,6 +1,6 @@
-#A microservice App in Node JS
+#A microservice App in Node JS#
 
-##Installation
+##Installation##
 
 install node.js on your machine  
 
@@ -9,7 +9,9 @@ install node.js on your machine
 Refer to this link for further instructions
 
 https://nodejs.org/en/download/package-manager/
+----
 
+###Setup###
 * Clone this repo on your machine
 
 * Modify the config.json under the folder s3modules, so it actually has the Access key and secret access password 
